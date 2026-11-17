@@ -3,3 +3,7 @@
 *.sh text eol=lf
 Dockerfile text eol=lf
 *.conf text eol=lf
+
+# Linguist overrides
+*.java linguist-detectable=true
+*.ts linguist-detectable=true
